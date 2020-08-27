@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2ad655f-9a8d-4b93-b3ea-2a14e57a6230" name="Default Changelist" comment="" />
+    <list default="true" id="c2ad655f-9a8d-4b93-b3ea-2a14e57a6230" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1freq5MX2obGVneBVnXKjr0ACJc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -34,7 +37,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mssc-brewery-eureka" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files (x86)/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -46,6 +49,9 @@
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="guru.sfg.brewery.inventoryfailover" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jean\Documents\WORKSPACES\SPRING\formationBeginner2Guru\mssc-inventory-failover\src\main\resources" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -92,6 +98,8 @@
     <configuration name="MsscInventoryFailoverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="mssc-inventory-failover" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="guru.sfg.brewery.inventoryfailover.MsscInventoryFailoverApplication" />
+      <option name="ACTIVE_PROFILES" value="local-discovery" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,11 +134,54 @@
       <option name="presentableId" value="Default" />
       <updated>1596980825209</updated>
       <workItem from="1596980829551" duration="2763000" />
-      <workItem from="1596984743293" duration="2939000" />
+      <workItem from="1596984743293" duration="4268000" />
+      <workItem from="1597346043093" duration="4389000" />
+      <workItem from="1598550206162" duration="1096000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial project">
+      <created>1596988824244</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596988824244</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ignoring /idea folder&#10;typo: invetory to inventory">
+      <created>1597347281904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597347281904</updated>
+    </task>
+    <task id="LOCAL-00003" summary="config of spring cloud sleuth and json logging">
+      <created>1598552609914</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598552609914</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial project" />
+    <MESSAGE value="ignoring /idea folder&#10;typo: invetory to inventory" />
+    <MESSAGE value="config of spring cloud sleuth and json logging" />
+    <option name="LAST_COMMIT_MESSAGE" value="config of spring cloud sleuth and json logging" />
   </component>
 </project>
