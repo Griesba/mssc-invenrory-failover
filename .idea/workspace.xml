@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2ad655f-9a8d-4b93-b3ea-2a14e57a6230" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_test_3_3_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mssc-inventory-failover.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mssc-inventory-failover.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +44,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files (x86)/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -52,6 +58,7 @@
       <recent name="guru.sfg.brewery.inventoryfailover" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jean\Documents\WORKSPACES\SPRING\formationBeginner2Guru\mssc-inventory-failover\src\main" />
       <recent name="C:\Users\Jean\Documents\WORKSPACES\SPRING\formationBeginner2Guru\mssc-inventory-failover\src\main\resources" />
     </key>
   </component>
@@ -137,7 +144,7 @@
       <workItem from="1596980829551" duration="2763000" />
       <workItem from="1596984743293" duration="4268000" />
       <workItem from="1597346043093" duration="4389000" />
-      <workItem from="1598550206162" duration="5575000" />
+      <workItem from="1598550206162" duration="6398000" />
     </task>
     <task id="LOCAL-00001" summary="Initial project">
       <created>1596988824244</created>
@@ -174,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598703647751</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Setting zipking server config and json logging.">
+      <created>1598810311463</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598810311463</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +212,7 @@
     <MESSAGE value="ignoring /idea folder&#10;typo: invetory to inventory" />
     <MESSAGE value="config of spring cloud sleuth and json logging" />
     <MESSAGE value="refactoring zipkin config. delegate configuration to server config" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring zipkin config. delegate configuration to server config" />
+    <MESSAGE value="Setting zipking server config and json logging." />
+    <option name="LAST_COMMIT_MESSAGE" value="Setting zipking server config and json logging." />
   </component>
 </project>
